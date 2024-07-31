@@ -1,0 +1,7 @@
+# VsCode
+.vscode
+
+# Gradle
+.gradle
+build
+bin

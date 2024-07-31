@@ -1,0 +1,4 @@
+main: de.mrcreativ3001.endrespawn.EndRespawn
+name: EndRespawn
+version: ${version}
+api-version: ${minecraft_major_version}
